@@ -67,7 +67,7 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u>(main leader), Xu Zheng,  Rong Geng, Chiu
 
 # 📖 Educations
 - *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
-- *2018.06 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
+- *2018.09 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
 
