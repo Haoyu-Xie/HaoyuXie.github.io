@@ -17,16 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current master student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the knowledge distillation, omnidirectional vision, optical flow and medical image analysis. 
+I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and interested in a wide array of DL/CV topics, ranging from low-level vision to high-level vison. Recently, I have been working on the Semi-Supervised Semantic Segmentation, Pixel-Wise Contrastive Learning, and medical image analysis. Besides, I am interesting in Unsupervised Domain Adaptation.
 
-[Email](zhenxu128@gmail.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/zhengxuJosh)
+[Email](895852154@qq.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com/citations?user=SCHOLAR_ID&user=Ii1c51QAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 # 🔥 News
+- *2022.10*: One paper uploaded to [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations]([https://arxiv.org/pdf/2206.02070](https://arxiv.org/abs/2210.14670)).
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
-- *2022.07*: Start remote visting [Khoury College of Computer Science](https://www.khoury.northeastern.edu/) in [NEU](https://www.northeastern.edu/).
-- *2022.06*: One survey paper uploaded to [Arxiv](https://arxiv.org/pdf/2206.02070).
-- *2021.11*: Start internship @ [VLISLab](https://addisonwang2013.github.io/vlislab/index.html) in HKUST.
-
+- *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
@@ -59,11 +57,10 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 </div>
 
 # 🎖 Honors and Awards
-- *2020.09* First Class Master Scholarship of Northeastern University 
-- *2019.06* Outstanding Graduate of Liaoning Province
-- *2019.06* Outstanding Graduate of Northeastern University
-- *2019.03* First Class Scholarship of Northeastern University
-- *2018.09* Second Class Scholarship of Northeastern University
+- *2021.09* First Class Doctor Scholarship of Northeastern University 
+- *2020.09* First Class Doctor Scholarship of Northeastern University 
+- *2018.03* First Class Scholarship of Northeastern University
+- *2017.09* First Class Scholarship of Northeastern University
 - *2017.06* Honerable Mention Award in MCM 2017
 - *2017.08* Provincial Third Prize in Liaoning Province Electronic Design Competition 
 
@@ -74,15 +71,13 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 
 # 💻 Internships
-- *2021.11 - 2022.08 (now)*, [VLISLab](https://addisonwang2013.github.io/vlislab/) with Prof.Lin Wang, HKUST.
-<br/>(2022.06 - 2022.08)Research: Panoramic semantic segmentation & Unsupervised Domain Adaptation.
-<br/>(2022.02 - 2022.06)[Survey](https://arxiv.org/pdf/2206.02070): Priors in deep-learning based image resotration and enhancement, submitted to TPAMI.
-<br/>(2022.03 - 2022.05)Research: Knowledge Distillation.
-<br/>(2021.11 - 2021.03)Research: Semi-supervised Learning.
+- *2022.03 - 2022.11 (now)*, University of Sydney, with Prof.[Chang Xu](http://changxu.xyz).
+<br/>Interest: Semi-Supervised Semantic Segmentation & Unsupervised Domain Adaptation.
+<br/>(2022.08 - 2022.10)3 papers (Semi-Supervised Semantic Segmentation & Panoramic Semantic Segmentation) submitted to CVPR2023.
+<br/>(2022.03 - 2022.08)[Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
+<br/>(2022.03 - 2022.11)Research: Semi-Supervised Semantic Segmentation & Pixel-Wise Contrastive Learning.
+<br/>(2020.10 - 2022.03)Research: Semi-Supervised Semantic Segmentation for Medical Images.
 
-- *2021.08 - 2021.09*, Hokkaido Summer Institute, [Hokkaido University](https://www.hokudai.ac.jp/)
-<br/> Course: The Theory and Application of Deep Learning
-<br/> Course: Reinforcement learning, optimization theory and NLP
 
 # 🏫 Social Activities
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
