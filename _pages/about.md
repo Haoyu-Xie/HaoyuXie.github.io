@@ -23,7 +23,6 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and interest
 
 # 🔥 News
 - *2022.10*: One paper uploaded to arxiv [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
-- *2022.08*: One paper (Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
@@ -69,12 +68,13 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 - *2018.06 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
-
+- *2022.08*: One paper (Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 
 # 💻 Internships
 - *2022.03 - 2022.11 (now)*, University of Sydney, with Prof.[Chang Xu](http://changxu.xyz).
 <br/>Interest: Semi-Supervised Semantic Segmentation & Unsupervised Domain Adaptation.
 <br/>(2022.08 - 2022.10)3 papers (Semi-Supervised Semantic Segmentation & Panoramic Semantic Segmentation) submitted to CVPR2023.
+<br/>(2022.08 - 2022.10)1 paper (Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 <br/>(2022.03 - 2022.08)[Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
 <br/>(2022.03 - 2022.11)Research: Semi-Supervised Semantic Segmentation & Pixel-Wise Contrastive Learning.
 <br/>(2020.10 - 2022.03)Research: Semi-Supervised Semantic Segmentation for Medical Images.
