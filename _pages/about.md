@@ -29,7 +29,7 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote v
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) Arxiv 2022
