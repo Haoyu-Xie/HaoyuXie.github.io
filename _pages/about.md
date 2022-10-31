@@ -22,7 +22,8 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and interest
 [Email](895852154@qq.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 # 🔥 News
-- *2022.10*: One paper uploaded to [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations]([https://arxiv.org/pdf/2206.02070](https://arxiv.org/abs/2210.14670)).
+- *2022.10*: One paper uploaded to arxiv [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
+- *2022.08*: One paper (Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
@@ -30,9 +31,9 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and interest
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/prior-survey.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[All One Needs to Know about Priors for Deep Image Restoration and Enhancement: A Survey](https://arxiv.org/pdf/2206.02070) Arxiv 2022 (Submitted to TPAMI)
+[Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) Arxiv 2022
   
-Yunfan Lu, Yiqi Lin, Hao Wu, Yunhao Luo, <u>Xu Zheng</u>, Lin Wang
+Haoyu Xie, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
 </div>
 </div>
@@ -61,12 +62,11 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 - *2020.09* First Class Doctor Scholarship of Northeastern University 
 - *2018.03* First Class Scholarship of Northeastern University
 - *2017.09* First Class Scholarship of Northeastern University
-- *2017.06* Honerable Mention Award in MCM 2017
-- *2017.08* Provincial Third Prize in Liaoning Province Electronic Design Competition 
 
 # 📖 Educations
-- *2020.06 - 2022.06 (now)*, <br/> M.E., Northeastern University, Shenyang, China
-- *2015.09 - 2019.06*, <br/> B.E., Northeastern University, Shenyang, China
+- *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
+- *2018.06 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
+- *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
 
 
@@ -79,10 +79,7 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 <br/>(2020.10 - 2022.03)Research: Semi-Supervised Semantic Segmentation for Medical Images.
 
 
-# 🏫 Social Activities
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/santai.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-I have been serving as a volunteer teacher in Tongchuan No. 2 Primary School, Santai County, Mianyang City, Sichuan Province from 2019/08 to 2020/08. There I met lovely teachers and students, and the precious experiences gave me a different understanding of life.
+
 </div>
 </div>
 
