@@ -34,7 +34,7 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote v
   
 [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) Arxiv 2022
   
-Haoyu Xie, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
+<u>Haoyu Xie</u>, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
 </div>
 </div>
@@ -43,7 +43,7 @@ Haoyu Xie, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
 [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629), in Computers in Biology and Medicine, 2022.
   
-<u>Xu Zheng</u>, Chong Fu, Haoyu Xie, Jialei Chen, Xingwei Wang, Chiu-Wing Sham
+<u>Xu Zheng</u>, Chong Fu, <u>Haoyu Xie</u>(main leader), Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
 </div>
 </div>
@@ -53,7 +53,7 @@ Haoyu Xie, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
 Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation, in Computers in Biology and Medicine, 2022.
   
-Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
+Jialei Chen, Chong Fu, <u>Haoyu Xie</u>(main leader), <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 </div>
 </div>
