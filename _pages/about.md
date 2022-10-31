@@ -68,7 +68,6 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 - *2018.06 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
-- *2022.08*: One paper (Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
 
 # 💻 Internships
 - *2022.03 - 2022.11 (now)*, University of Sydney, with Prof.[Chang Xu](http://changxu.xyz).
