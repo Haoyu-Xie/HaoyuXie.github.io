@@ -62,6 +62,7 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 - *2020.09* First Class Doctor Scholarship of Northeastern University 
 - *2018.03* First Class Scholarship of Northeastern University
 - *2017.09* First Class Scholarship of Northeastern University
+- *2017.03* China College Students' 'Internet+'Innovation and Entrepreneurship Competition, National Award.
 
 # 📖 Educations
 - *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
