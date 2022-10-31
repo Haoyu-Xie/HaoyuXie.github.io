@@ -85,10 +85,10 @@ Jialei Chen, Chong Fu, Haoyu Xie, <u>Xu Zheng</u>,  Rong Geng, Chiu-Wing Sham
 
 <html>
   <body>
-    <div style="width: 400px;">
+    <div style="width: 600px;">
         <br/>
         <br/>
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=zrl7WjzBxF_qKC05N5OneNhjFigQ9jPab4GJHSWvjkI&cl=ffffff&w=a"></script>
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FQ3j1r3rjfv_qIqMSbOQS0U7PyIgoObMrPC5gz0RhyE&cl=ffffff&w=a"></script>
     </div>
     <!-- text-indent:3em;  -->
     <div style="margin-left: 5%;" id='modify_log'>
