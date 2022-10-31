@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting University of Sydney, supervised by Prof.[Chang Xu](http://changxu.xyz). I am interested in a wide array of DL/CV topics, ranging from semi-supervised learning to self-supervised learning. Recently, I have been working on the Semi-Supervised Semantic Segmentation, Pixel-Wise Contrastive Learning, and medical image analysis. Besides, I am interesting in Unsupervised Domain Adaptation.
+I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Prof.[Chang Xu](http://changxu.xyz). I am interested in a wide array of DL/CV topics, ranging from semi-supervised learning to self-supervised learning. Recently, I have been working on the Semi-Supervised Semantic Segmentation, Pixel-Wise Contrastive Learning, and medical image analysis. Besides, I am interesting in Unsupervised Domain Adaptation.
 
 <font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
 
