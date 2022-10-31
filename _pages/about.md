@@ -19,7 +19,7 @@ redirect_from:
 
 I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting University of Sydney, supervised by Prof.[Chang Xu](http://changxu.xyz). I am interested in a wide array of DL/CV topics, ranging from semi-supervised learning to self-supervised learning. Recently, I have been working on the Semi-Supervised Semantic Segmentation, Pixel-Wise Contrastive Learning, and medical image analysis. Besides, I am interesting in Unsupervised Domain Adaptation.
 
-<font color=red> I have a postdoc plan and am open to pre-intern!!! </font> , 
+<font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
 
 [Email](895852154@qq.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
