@@ -21,7 +21,7 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote v
 
 <font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
 
-[Email](895852154@qq.com)/ [CV](https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
+[Email](895852154@qq.com)/ [CV]([https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf](https://drive.google.com/file/d/1mWikF4i9lE9uYjk_BO2-GOnF31s4koFr/view?usp=sharing)) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 # 🔥 News
 - *2022.10*: One paper uploaded to arxiv [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
