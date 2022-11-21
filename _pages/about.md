@@ -24,7 +24,7 @@ I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote v
 [Email](895852154@qq.com)/ [CV]([https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf](https://drive.google.com/file/d/1mWikF4i9lE9uYjk_BO2-GOnF31s4koFr/view?usp=sharing)) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 # 🔥 News
-- *2022.10*: One paper accepted to AAAI2023 [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
+- *2022.10*: <font color=red>One paper accepted to AAAI2023 </font> [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
