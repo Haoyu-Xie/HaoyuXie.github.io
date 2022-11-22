@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Prof.[Chang Xu](http://changxu.xyz). I am interested in a wide array of DL/CV topics, ranging from semi-supervised learning to self-supervised learning. Recently, I have been working on the Semi-Supervised Semantic Segmentation, Pixel-Wise Contrastive Learning, and medical image analysis. Besides, I am interesting in Unsupervised Domain Adaptation.
+I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr.[Chang Xu](http://changxu.xyz). 
+My Primary research interest is computer visionm with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have additional interest in **3D Dense Prediction Task** and **Diffusion Model**.
 
 <font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
 
 [Email](895852154@qq.com)/ [CV]([https://github.com/zhengxuJosh/zhengxuJosh.github.io/files/8755361/zhengxu.pdf](https://drive.google.com/file/d/1mWikF4i9lE9uYjk_BO2-GOnF31s4koFr/view?usp=sharing)) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 # 🔥 News
-- *2022.10*: <font color=red>One paper accepted to AAAI2023 </font> [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
+- *2022.10*: <font color=red>One paper accepted to AAAI 2023 </font> [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
