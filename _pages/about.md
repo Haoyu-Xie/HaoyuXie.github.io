@@ -76,12 +76,7 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u>(main leader), Xu Zheng,  Rong Geng, Chiu
 
 
 # 💻 Internships
-- *2022.03 - 2022.11 (now)*, University of Sydney, with Prof.[Chang Xu](http://changxu.xyz).
-<br/>(2022.08 - 2022.10)3 papers (One first author, Semi-Supervised Semantic Segmentation & Panoramic Semantic Segmentation) submitted to CVPR2023.
-<br/>(2022.08 - 2022.10)1 paper (First author, Deep Adversarial Co-Training for Medical Semi-Supervised Semantic Segmentation) submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine).
-<br/>(2022.03 - 2022.08)One paper uploaded to arxiv [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670).
-<br/>(2022.03 - 2022.11)Research: Semi-Supervised Semantic Segmentation & Pixel-Wise Contrastive Learning.
-<br/>(2020.10 - 2022.03)Research: Semi-Supervised Semantic Segmentation for Medical Images.
+- *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
 
 
 
