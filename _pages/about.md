@@ -33,7 +33,7 @@ My Primary research interest is computer visionm with a focus on **semi-supervis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2023</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) AAAI2023
+[Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) AAAI2023 [Code](https://github.com/Haoyu-Xie/PRCL)
   
 <u>Haoyu Xie</u>, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
