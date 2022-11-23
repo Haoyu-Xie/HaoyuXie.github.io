@@ -36,7 +36,7 @@ My Primary research interest is computer visionm with a focus on **semi-supervis
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/PRCL.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023) 
+<b>Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023)</b> 
 In this paper, we redefine the representation in pixel-wise contrastive learning from a perspective of probability theory. We consider the probability and model the representation as random variable, namely Probabilistic Representation. 
 [Paper](https://arxiv.org/abs/2210.14670) [Code](https://github.com/Haoyu-Xie/PRCL)
   
