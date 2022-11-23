@@ -47,7 +47,7 @@ In this paper, we redefine the representation in pixel-wise contrastive learning
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/uncertainty-aware.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<b>Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation<\b>, in Computers in Biology and Medicine, 2022.<br>
+<b>Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation</b>, in Computers in Biology and Medicine, 2022.<br>
 [Paper](https://arxiv.org/pdf/2111.11629)
 Xu Zheng, Chong Fu, <u>Haoyu Xie</u> (main leader), Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
@@ -57,7 +57,7 @@ Xu Zheng, Chong Fu, <u>Haoyu Xie</u> (main leader), Jialei Chen, Xingwei Wang, C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-<b>Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation<\b>, in Computers in Biology and Medicine, 2022.<br>
+<b>Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation</b>, in Computers in Biology and Medicine, 2022.<br>
 [Paper](https://www.sciencedirect.com/science/article/pii/S001048252200751X)
 Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chiu-Wing Sham
 
