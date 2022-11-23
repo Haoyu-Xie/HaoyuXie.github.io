@@ -22,7 +22,7 @@ My Primary research interest is computer visionm with a focus on **semi-supervis
 
 <font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
 
-[Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf)(https://drive.google.com/file/d/1mWikF4i9lE9uYjk_BO2-GOnF31s4koFr/view?usp=sharing)) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
+[Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) /[Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 
 # 🔥 News
