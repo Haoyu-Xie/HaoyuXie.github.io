@@ -30,7 +30,7 @@ My Primary research interest is computer visionm with a focus on **semi-supervis
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2023</div><img src='images/fig2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2023</div><img src='images/PRCL.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations](https://arxiv.org/abs/2210.14670) accepted to AAAI 2023 [Code](https://github.com/Haoyu-Xie/PRCL)
