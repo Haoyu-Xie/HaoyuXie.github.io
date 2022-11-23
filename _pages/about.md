@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a current Ph.D student at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr.[Chang Xu](http://changxu.xyz). 
-My Primary research interest is computer visionm with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have additional interest in **3D Dense Prediction Task** and **Diffusion Model**.
+I am currently a Ph.D student supervised by Prof. [Chong Fu](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN&oi=ao) at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr.[Chang Xu](http://changxu.xyz). 
+I received my Master degree and Bachelor degree from School of Computer Science and Engineering, NEU in 2020 and 2018, respectively.
 
-<font color=red> I have a postdoc plan and am open to pre-intern!!! </font> 
+My Primary research interest is computer visionm with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have an additional interest in **3D Dense Prediction Task** and **Diffusion Model** (Under investigation).
+
+<font color=red> I have a postdoc plan and am accepting an early internship!!! </font> 
 
 [Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
