@@ -63,6 +63,9 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 
 </div>
 </div>
+  
+# 💻 Internships
+- *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
 
 # 🎖 Honors and Awards
 - *2021.09* First Class Doctor Scholarship of Northeastern University 
@@ -76,9 +79,6 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 - *2018.09 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
-
-# 💻 Internships
-- *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
 
 
 
