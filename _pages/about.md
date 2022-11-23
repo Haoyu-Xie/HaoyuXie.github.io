@@ -49,7 +49,7 @@ In this paper, we redefine the representation in pixel-wsie contrastive learning
   
 [Uncertainty-Aware Deep Co-training for Semi-supervised Medical Image Segmentation](https://arxiv.org/pdf/2111.11629), in Computers in Biology and Medicine, 2022.
   
-Xu Zheng, Chong Fu, <u>Haoyu Xie</u>(main leader), Jialei Chen, Xingwei Wang, Chiu-Wing Sham
+Xu Zheng, Chong Fu, <u>Haoyu Xie</u> (main leader), Jialei Chen, Xingwei Wang, Chiu-Wing Sham
 
 </div>
 </div>
@@ -59,7 +59,7 @@ Xu Zheng, Chong Fu, <u>Haoyu Xie</u>(main leader), Jialei Chen, Xingwei Wang, Ch
   
 Uncertainty Teacher with Dense Focal Loss for Semi-supervised Medical Image Segmentation, in Computers in Biology and Medicine, 2022.
   
-Jialei Chen, Chong Fu, <u>Haoyu Xie</u>(main leader), Xu Zheng,  Rong Geng, Chiu-Wing Sham
+Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chiu-Wing Sham
 
 </div>
 </div>
