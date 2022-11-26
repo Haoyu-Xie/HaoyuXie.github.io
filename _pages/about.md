@@ -74,6 +74,9 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 - *2017.09* First Class Scholarship of Northeastern University
 - *2017.03* China College Students' 'Internet+'Innovation and Entrepreneurship Competition, National Award.
 
+# 👨‍💻 Professional Services
+- Program Committee Members of AAAI 2023, ACMMM 2023, etc.
+
 # 📖 Educations
 - *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
 - *2018.09 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
