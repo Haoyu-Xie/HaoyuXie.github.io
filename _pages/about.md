@@ -67,15 +67,15 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 # 💻 Internships
 - *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
 
+# 👨‍💻 Professional Services
+- Program Committee Members of AAAI 2023, ACMMM 2023, etc.
+
 # 🎖 Honors and Awards
 - *2021.09* First Class Doctor Scholarship of Northeastern University 
 - *2020.09* First Class Doctor Scholarship of Northeastern University 
 - *2018.03* First Class Scholarship of Northeastern University
 - *2017.09* First Class Scholarship of Northeastern University
 - *2017.03* China College Students' 'Internet+'Innovation and Entrepreneurship Competition, National Award.
-
-# 👨‍💻 Professional Services
-- Program Committee Members of AAAI 2023, ACMMM 2023, etc.
 
 # 📖 Educations
 - *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
