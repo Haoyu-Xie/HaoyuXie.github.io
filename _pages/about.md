@@ -64,7 +64,7 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 </div>
 </div>
   
-# 💻 Internships
+# 👣 Internships
 - *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
 
 # 👨‍💻 Professional Services
