@@ -22,7 +22,7 @@ I received my Master degree and Bachelor degree from School of Computer Science 
 
 My Primary research interest is computer vision with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have an additional interest in **3D Dense Prediction Task** and **Diffusion Model** (Under investigation).
 
-<font color=red> I have a postdoc plan and am accepting an early internship!!! </font> 
+<font color=red> I have completed my Ph.D graduation project. I am looking for a long postdoctoral job, and I accept early interns for postdoctoral work (remote or onsite)!!! </font> 
 
 [Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
