@@ -83,28 +83,6 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
 
-
-
-</div>
-</div>
-
-<html>
-  <body>
-    <div style="width: 600px;">
-        <br/>
-        <br/>
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=FQ3j1r3rjfv_qIqMSbOQS0U7PyIgoObMrPC5gz0RhyE&cl=ffffff&w=a"></script>
-    </div>
-    <!-- text-indent:3em;  -->
-    <div style="margin-left: 5%;" id='modify_log'>
-        <br/>
-        <p>Last updated: Aug 24th, 2022</p>
-        <br/>
-        <br/>
-    </div>
-  <body>
-<html>
-  
   
 
   
