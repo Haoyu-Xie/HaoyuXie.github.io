@@ -24,7 +24,7 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 <font color=red> I have completed my Ph.D graduation project. I am looking for a long postdoctoral job, and I accept early interns for postdoctoral work (remote or onsite)!!! </font> 
 
-[Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](Haoyu-Xie)
+[Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Haoyu-Xie](https://github.com/Haoyu-Xie)
 
 
 # 🔥 News
@@ -38,7 +38,8 @@ My Primary research interest is computer vision with a focus on **semi-supervise
   
 <b>Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023)</b> <br>
 In this paper, we redefine the representation in pixel-wise contrastive learning from a perspective of probability theory. We consider the probability and model the representation as random variable, namely Probabilistic Representation. <br>
-[Paper](https://arxiv.org/abs/2210.14670) [Code](https://github.com/Haoyu-Xie/PRCL)
+[Paper](https://arxiv.org/abs/2210.14670) [Code](https://github.com/Haoyu-Xie/PRCL) [Video] (https://youtu.be/RqumWG8MhS8) [Poster](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10330296/4756_Poster.pdf)
+
   
 <u>Haoyu Xie</u>, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
   
