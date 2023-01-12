@@ -28,9 +28,11 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 
 # 🔥 News
-- *2022.10*: <font color=red>One paper accepted to **AAAI 2023** as **Oral**.
+- *2022.10*: <font color=red>One paper accepted to **AAAI 2023** as **Oral** !
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
+- *2020.08*: <font color=red>One paper accepted to </font> [Neural Computing and Applications](https://link.springer.com/article/10.1007/s00521-021-05867-1)!
+ 
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/PRCL.gif' alt="sym" width="100%"></div></div>
@@ -62,6 +64,15 @@ Xu Zheng, Chong Fu, <u>Haoyu Xie</u> (main leader), Jialei Chen, Xingwei Wang, C
 [Paper](https://www.sciencedirect.com/science/article/pii/S001048252200751X)<br>
 Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chiu-Wing Sham
 
+</div>
+</div>
+  
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<b>Global context aware RCNN for object detection</b>, in Neural Computing and Applications, 2021.<br>
+[Paper](https://link.springer.com/article/10.1007/s00521-021-05867-1)<br>
+Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen 
 </div>
 </div>
   
