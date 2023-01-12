@@ -28,7 +28,7 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 
 # 🔥 News
-- *2022.10*: <font color=red>One paper accepted to AAAI 2023 as Oral.
+- *2022.10*: <font color=red>One paper accepted to **AAAI 2023** as **Oral**.
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
 
