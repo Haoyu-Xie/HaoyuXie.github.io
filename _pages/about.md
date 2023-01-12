@@ -24,7 +24,8 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 <font color=red> I have completed my Ph.D graduation project. I am looking for a long postdoctoral job, and I accept early interns for postdoctoral work (remote or onsite)!!! </font> 
 
-[Email](895852154@qq.com)/ [CV](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10072551/CV_HaoyuXie.pdf) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
+[Email](895852154@qq.com)/ [CV]([CV_Xiehaoyu.pdf](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10397943/CV_Xiehaoyu.pdf)
+) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=GrJUKboAAAAJ) / [Github](https://github.com/Haoyu-Xie)
 
 
 # 🔥 News
