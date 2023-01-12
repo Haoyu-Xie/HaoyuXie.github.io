@@ -67,7 +67,7 @@ Jialei Chen, Chong Fu, <u>Haoyu Xie</u> (main leader), Xu Zheng,  Rong Geng, Chi
 </div>
 </div>
   
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Neural Computing and Applications</div><img src='images/RCNN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <b>Global context aware RCNN for object detection</b>, in Neural Computing and Applications, 2021.<br>
