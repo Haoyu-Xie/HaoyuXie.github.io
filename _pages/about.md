@@ -44,7 +44,7 @@ In this paper, we redefine the representation in pixel-wise contrastive learning
 [Paper](https://arxiv.org/abs/2210.14670) [Code](https://github.com/Haoyu-Xie/PRCL) [Video](https://youtu.be/RqumWG8MhS8) [Poster](https://github.com/Haoyu-Xie/Haoyu-Xie.github.io/files/10330296/4756_Poster.pdf)
 
   
-<u>Haoyu Xie</u>, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chang Xu
+<u>Haoyu Xie</u>, Changqi Wang, Mingkai Zheng, Minjing Dong, Shan You, Chong Fu, Chang Xu
   
 </div>
 </div>
