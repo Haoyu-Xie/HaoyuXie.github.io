@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D student supervised by Prof. [Chong Fu](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN&oi=ao) at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr.[Chang Xu](http://changxu.xyz). 
+And I am currently working as a RA at [AI & Vision Lab](https://damo.alibaba.com/labs/vision), Alibaba DOMA Academy.
 I received my Master degree and Bachelor degree from School of Computer Science and Engineering, NEU in 2020 and 2018, respectively.
 
 My Primary research interest is computer vision with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have an additional interest in **3D Dense Prediction Task** and **Diffusion Model** (Under investigation).
@@ -78,7 +79,8 @@ Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen
 </div>
   
 # 👣 Internships
-- *2022.03 - 2022.11 (now)*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
+- *2022.03 - 2023.02*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
+- *2023.02 - 2022.11 (now)*, Alibaba DAMO Academy, with [Yang Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=t1emSE0AAAAJ).
 
 # 👨‍💻 Professional Services
 - Program Committee Members of AAAI 2023, ACMMM 2023, etc.
