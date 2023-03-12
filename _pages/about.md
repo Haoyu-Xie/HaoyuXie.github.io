@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student supervised by Prof. [Chong Fu](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN&oi=ao) at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr.[Chang Xu](http://changxu.xyz). 
+I am currently a Ph.D student supervised by Prof. [Chong Fu](https://scholar.google.com.hk/citations?user=xq76xEMAAAAJ&hl=zh-CN&oi=ao) at [NEU](http://www.neu.edu.cn/), China and remote visiting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au), supervised by Dr. [Chang Xu](http://changxu.xyz). 
 And I am currently working as a RA at [AI & Vision Lab](https://damo.alibaba.com/labs/vision), Alibaba DOMA Academy.
 I received my Master degree and Bachelor degree from School of Computer Science and Engineering, NEU in 2020 and 2018, respectively.
 
