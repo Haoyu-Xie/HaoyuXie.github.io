@@ -91,7 +91,7 @@ Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen
 </div>
   
 # 👣 Internships
-- *2022.03 - 2023.02*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
+- *2022.03 - 2023.02*, University of Sydney, with Dr. [Chang Xu](http://changxu.xyz).
 - *2023.02 - (now)*, Alibaba DAMO Academy, with [Yang Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=t1emSE0AAAAJ).
 
 # 👨‍💻 Professional Services
