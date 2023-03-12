@@ -60,6 +60,15 @@ Xu Zheng, Chong Fu, <u>Haoyu Xie</u> (main leader), Jialei Chen, Xingwei Wang, C
 
 </div>
 </div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src=![截屏2023-03-12 下午1 25 17](https://user-images.githubusercontent.com/29529170/224526202-3eaca4fa-917c-4103-9413-7abb66536dfe.png), alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+<b>Uncertainty-Aware Deep Adversarial Co-training for Image Segmentation over Medical Images</b>, in Computers in Biology and Medicine, 2023.<br>
+[Paper](https://www.sciencedirect.com/science/article/pii/S0010482523002019)<br>
+<u>Haoyu Xie</u>, Chong Fu, Xu Zheng, Yu Zheng, Xingwei Wang, Chiu-Wing Sham
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Uncertainty-Teacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
