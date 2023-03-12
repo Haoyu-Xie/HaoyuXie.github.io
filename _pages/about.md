@@ -92,7 +92,7 @@ Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen
   
 # 👣 Internships
 - *2022.03 - 2023.02*, University of Sydney, with Dr.[Chang Xu](http://changxu.xyz).
-- *2023.02 - 2022.11 (now)*, Alibaba DAMO Academy, with [Yang Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=t1emSE0AAAAJ).
+- *2023.02 - (now)*, Alibaba DAMO Academy, with [Yang Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=t1emSE0AAAAJ).
 
 # 👨‍💻 Professional Services
 - Program Committee Members of AAAI 2023, ACMMM 2023, etc.
@@ -105,7 +105,7 @@ Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen
 - *2017.03* China College Students' 'Internet+'Innovation and Entrepreneurship Competition, National Award.
 
 # 📖 Educations
-- *2020.09 - 2022.11 (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
+- *2020.09 - (now)*, <br/> Ph.D., Northeastern University, Shenyang, China
 - *2018.09 - 2020.06*, <br/> M.E., Northeastern University, Shenyang, China
 - *2014.09 - 2018.06*, <br/> B.E., Northeastern University, Shenyang, China
 
