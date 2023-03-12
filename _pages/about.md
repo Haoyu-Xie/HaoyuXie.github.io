@@ -51,7 +51,7 @@ In this paper, we redefine the representation in pixel-wise contrastive learning
   
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Adversarial.png', alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computers in Biology and Medicine</div><img src='images/Adversarial.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 <b>Deep Adversarial Co-training for Semantic Segmentation over Medical Images</b>, in Computers in Biology and Medicine, 2023.<br>
