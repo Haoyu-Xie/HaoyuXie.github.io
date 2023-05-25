@@ -21,7 +21,7 @@ I am currently a Ph.D student supervised by Prof. [Chong Fu](https://scholar.goo
 And I am currently working as a RA at [AI & Vision Lab](https://damo.alibaba.com/labs/vision), Alibaba DOMA Academy.
 I received my Master degree and Bachelor degree from School of Computer Science and Engineering, NEU in 2020 and 2018, respectively.
 
-My Primary research interest is computer vision with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have an additional interest in **3D Dense Prediction Task** and **Diffusion Model** (Under investigation).
+My Primary research interest is computer vision with a focus on **semi-supervised learning** and **semantic segmentation**. By inducing priors that humans utilize into training of deep neural networks, I hope to understand the learning of our deep models better and to enable the models to understand visual data with minimal human supervision. Besides, I have an additional interest in **AIGC Task** and **Diffusion Model** (Under investigation).
 
 <font color=red> I have completed my Ph.D graduation project. I am looking for a long postdoctoral job, and I accept early interns for postdoctoral work (remote or onsite)!!! </font> 
 
@@ -95,7 +95,7 @@ Wenchao Zhang, Chong Fu, <u>Haoyu Xie</u>, Mai Zhu, Ming Tie, Junxin Chen
 - *2023.02 - (now)*, Alibaba DAMO Academy, with [Yang Liu](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=t1emSE0AAAAJ).
 
 # 👨‍💻 Professional Services
-- Program Committee Members of AAAI 2023, ACMMM 2023, etc.
+- Program Committee Members of AAAI 2023, ACMMM 2023, KDD 2023, ICCV 2023, etc.
 
 # 🎖 Honors and Awards
 - *2021.09* First Class Doctor Scholarship of Northeastern University 
