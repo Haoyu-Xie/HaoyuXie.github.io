@@ -30,7 +30,7 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 
 # 🔥 News
-- *2023.07*: <font color=red>Two paper accepted to </font> </font> <b>ICCV 2023</b>!
+- *2023.07*: <font color=red>Two paper accepted to </font> <b>ICCV 2023</b>!
 - *2023.03*: <font color=red>One paper accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)!
 - *2023.02*: Start serving as a Research Internship in  <b>DAMO Lib, Alibaba Group <b>, Hangzhou, China!
 - *2022.10*: <font color=red>One paper accepted to </font> <b>AAAI 2023</b> as <b>Oral</b> !
