@@ -31,7 +31,7 @@ My Primary research interest is computer vision with a focus on **semi-supervise
 
 # 🔥 News
 - *2023.03*: <font color=red>One paper accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)!
-- *2023.02*: Start serving as a Research Internship in  <b>DAMO, Alibab <b>, Hangzhou, China!
+- *2023.02*: Start serving as a Research Internship in  <b>DAMO Lib, Alibaba Group <b>, Hangzhou, China!
 - *2022.10*: <font color=red>One paper accepted to </font> <b>AAAI 2023</b> as <b>Oral</b> !
 - *2022.08*: <font color=red>Two papers accepted to </font> [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! 
 - *2022.03*: Start remote visting [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html) in [University of Syndey](https://www.sydney.edu.au).
